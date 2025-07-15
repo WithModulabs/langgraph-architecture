@@ -9,7 +9,8 @@ Python & Jupyter Notebook: 실험적 아키텍처 설계 및 시뮬레이션을 
 .ipynb 파일: 주요 아키텍처 설계 및 테스트가 이루어지는 Jupyter Notebook
 .py 파일: 핵심 라이브러리 코드 및 유틸리티
 ### 설치 및 실행
-git clone https://github.com/sw-woo/langgraph-architecture.git \n
+git clone https://github.com/sw-woo/langgraph-architecture.git 
+
 cd langgraph-architecture
 # 필요시 가상환경 생성
 pip install -r requirements.txt
